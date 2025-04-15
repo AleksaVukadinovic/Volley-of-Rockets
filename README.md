@@ -1,6 +1,6 @@
 # Tornado Projectile Simulation
 
-This project is a **3D simulation of projectile motion influenced by a tornado vortex**, created as part of the **"Introduction to Mechanics" course** at the **Faculty of Mathematics, University of Belgrade**. It was developed by a team of two students: **Aleksa Vukadinović** and **Masa Lazić**, to explore and visualize complex motion under the influence of wind and air resistance.
+This project is a **3D simulation of projectile motion influenced by a tornado vortex**, created as part of the **"Introduction to Mechanics" course** at the **Faculty of Mathematics, University of Belgrade**. It was developed by a team of two students: **Aleksa Vukadinović** and **Maša Lazić**, to explore and visualize complex motion under the influence of wind and air resistance.
 
 ## 🌀 Overview
 
@@ -89,4 +89,4 @@ Interaction of projectiles with a simulated vortex flow
 
 ## 👨‍🏫 Academic Context
 
-This project was completed as part of the "Introduction to Mechanics" course during the 2rd year of undergraduate studies. It was a team project by three students, aiming to bridge programming with physical modeling and numerical simulation techniques.
+This project was completed as part of the "Introduction to Mechanics" course during the 2rd year of undergraduate studies. It was a team project by two students, aiming to bridge programming with physical modeling and numerical simulation techniques.
